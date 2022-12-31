@@ -1,0 +1,7 @@
+En
+To use the tool, just run the code with the main screen of gmail open at 1920x1080 resolution (most monitors), the browser window 
+has to be in full screen. To stop the code, press any key on the keyboard.///
+
+Pt-br
+Para usar a ferramenta, basta rodar o código com a tela principal do gmail aberta na resolução 1920x1080 (a da maioria dos monitores), a janela do 
+navegador tem que estar em tela cheia. Para parar o código pressione qualquer tecla do teclado.S
